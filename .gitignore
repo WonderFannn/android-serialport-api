@@ -1,0 +1,8 @@
+*.class
+android-sercd/project/.settings/
+*.properties
+*.classpath
+*.project
+android-serialport-api/project/bin/
+android-serialport-api/project/gen/
+android-serialport-api/project/.settings/
